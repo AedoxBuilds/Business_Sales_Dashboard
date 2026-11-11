@@ -1,0 +1,652 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Unit_Cost,Region
+ORD-1001,2026-01-01,CUST-140,Tooba Kamal,Water Bottle,Home & Kitchen,6,1800,900,Lahore
+ORD-1002,2026-06-30,CUST-108,Fatima Noor,Blender,Home & Kitchen,6,8100,5600,Peshawar
+ORD-1003,2026-03-06,CUST-107,Hamza Sheikh,Smart Watch,Electronics,2,14200,10000,Islamabad
+ORD-1003,2026-03-06,CUST-107,Hamza Sheikh,Water Bottle,Home & Kitchen,8,1800,900,Islamabad
+ORD-1004,2026-03-06,CUST-109,Zain Abbas,Air Fryer,Home & Kitchen,2,16200,12500,Islamabad
+ORD-1004,2026-03-06,CUST-109,Zain Abbas,Printer Paper Ream,Stationery,7,1500,1100,Islamabad
+ORD-1005,2026-02-24,CUST-140,Tooba Kamal,Smartphone,Electronics,1,60000,48000,Lahore
+ORD-1005,2026-02-24,CUST-140,Tooba Kamal,Blender,Home & Kitchen,3,8100,5600,Lahore
+ORD-1005,2026-02-24,CUST-140,Tooba Kamal,Laptop,Electronics,1,90200,78000,Lahore
+ORD-1006,2026-03-28,CUST-140,Tooba Kamal,Gel Pen Box,Stationery,1,600,330,Lahore
+ORD-1006,2026-03-28,CUST-140,Tooba Kamal,Backpack,Accessories,5,5500,3000,Lahore
+ORD-1007,2026-01-31,CUST-114,Sana Javed,Laptop,Electronics,2,85500,78000,Islamabad
+ORD-1007,2026-01-31,CUST-114,Sana Javed,Air Fryer,Home & Kitchen,1,16200,12500,Islamabad
+ORD-1007,2026-01-31,CUST-114,Sana Javed,Backpack,Accessories,2,5500,3000,Islamabad
+ORD-1008,2026-06-09,CUST-117,Faisal Qureshi,Wireless Earbuds,Electronics,6,9000,5500,Peshawar
+ORD-1009,2026-04-25,CUST-133,Salman Baig,Printer Paper Ream,Stationery,6,1400,1100,Rawalpindi
+ORD-1010,2026-01-06,CUST-138,Alina Pervez,Smart Watch,Electronics,1,13500,10000,Karachi
+ORD-1010,2026-01-06,CUST-138,Alina Pervez,Laptop,Electronics,1,95000,78000,Karachi
+ORD-1011,2026-05-24,CUST-133,Salman Baig,Wireless Earbuds,Electronics,8,8100,5500,Rawalpindi
+ORD-1012,2026-02-12,CUST-119,Danish Aslam,Smart Watch,Electronics,1,15000,10000,Islamabad
+ORD-1012,2026-02-12,CUST-119,Danish Aslam,Gel Pen Box,Stationery,7,600,330,Islamabad
+ORD-1012,2026-02-12,CUST-119,Danish Aslam,Blender,Home & Kitchen,8,7600,5600,Islamabad
+ORD-1013,2026-04-10,CUST-109,Zain Abbas,Study Desk,Furniture,1,25200,18500,Islamabad
+ORD-1014,2026-04-27,CUST-123,Kamran Akbar,Smartphone,Electronics,1,60000,48000,Karachi
+ORD-1015,2026-01-19,CUST-102,Sara Ahmed,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1015,2026-01-19,CUST-102,Sara Ahmed,Gel Pen Box,Stationery,8,600,330,Islamabad
+ORD-1016,2026-04-25,CUST-129,Adeel Farooq,Smart Watch,Electronics,2,15000,10000,Rawalpindi
+ORD-1016,2026-04-25,CUST-129,Adeel Farooq,Blender,Home & Kitchen,2,8500,5600,Rawalpindi
+ORD-1016,2026-04-25,CUST-129,Adeel Farooq,Notebook Pack,Stationery,7,800,450,Rawalpindi
+ORD-1017,2026-04-05,CUST-114,Sana Javed,Water Bottle,Home & Kitchen,2,1800,900,Islamabad
+ORD-1018,2026-04-01,CUST-112,Noor Fatima,Smart Watch,Electronics,1,15000,10000,Islamabad
+ORD-1019,2026-04-24,CUST-105,Bilal Hussain,Office Chair,Furniture,2,22000,14000,Rawalpindi
+ORD-1020,2026-06-13,CUST-102,Sara Ahmed,Laptop,Electronics,1,95000,78000,Islamabad
+ORD-1021,2026-06-20,CUST-135,Rizwan Chaudhry,Bookshelf,Furniture,2,15200,10500,Lahore
+ORD-1022,2026-02-23,CUST-113,Asad Mehmood,Wireless Earbuds,Electronics,7,9000,5500,Islamabad
+ORD-1023,2026-06-29,CUST-110,Maryam Iqbal,Office Chair,Furniture,2,22000,14000,Peshawar
+ORD-1023,2026-06-29,CUST-110,Maryam Iqbal,Bookshelf,Furniture,1,16000,10500,Peshawar
+ORD-1023,2026-06-29,CUST-110,Maryam Iqbal,Air Fryer,Home & Kitchen,1,18000,12500,Peshawar
+ORD-1024,2026-05-01,CUST-120,Rabia Khan,Laptop,Electronics,2,85500,78000,Peshawar
+ORD-1024,2026-05-01,CUST-120,Rabia Khan,Phone Case,Accessories,3,1200,400,Peshawar
+ORD-1025,2026-06-25,CUST-102,Sara Ahmed,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1026,2026-04-02,CUST-138,Alina Pervez,Printer Paper Ream,Stationery,1,1400,1100,Karachi
+ORD-1027,2026-01-23,CUST-126,Amna Rauf,Phone Case,Accessories,4,1200,400,Peshawar
+ORD-1027,2026-01-23,CUST-126,Amna Rauf,Office Chair,Furniture,1,22000,14000,Peshawar
+ORD-1028,2026-03-31,CUST-126,Amna Rauf,Notebook Pack,Stationery,2,800,450,Peshawar
+ORD-1028,2026-03-31,CUST-126,Amna Rauf,Study Desk,Furniture,2,25200,18500,Peshawar
+ORD-1029,2026-06-30,CUST-140,Tooba Kamal,Gel Pen Box,Stationery,4,500,330,Lahore
+ORD-1030,2026-03-06,CUST-138,Alina Pervez,Phone Case,Accessories,4,1200,400,Karachi
+ORD-1031,2026-03-10,CUST-114,Sana Javed,Printer Paper Ream,Stationery,1,1400,1100,Islamabad
+ORD-1031,2026-03-10,CUST-114,Sana Javed,Blender,Home & Kitchen,5,8500,5600,Islamabad
+ORD-1032,2026-06-22,CUST-105,Bilal Hussain,Phone Case,Accessories,2,1100,400,Rawalpindi
+ORD-1033,2026-02-10,CUST-110,Maryam Iqbal,Air Fryer,Home & Kitchen,2,18000,12500,Peshawar
+ORD-1034,2026-05-18,CUST-135,Rizwan Chaudhry,Office Chair,Furniture,1,20900,14000,Lahore
+ORD-1034,2026-05-18,CUST-135,Rizwan Chaudhry,Backpack,Accessories,5,5500,3000,Lahore
+ORD-1034,2026-05-18,CUST-135,Rizwan Chaudhry,Laptop,Electronics,1,95000,78000,Lahore
+ORD-1035,2026-05-30,CUST-125,Owais Hanif,Wireless Earbuds,Electronics,8,8100,5500,Karachi
+ORD-1035,2026-05-30,CUST-125,Owais Hanif,Air Fryer,Home & Kitchen,2,16200,12500,Karachi
+ORD-1036,2026-01-03,CUST-102,Sara Ahmed,Gel Pen Box,Stationery,1,600,330,Islamabad
+ORD-1037,2026-05-02,CUST-106,Hina Raza,Laptop,Electronics,2,95000,78000,Rawalpindi
+ORD-1038,2026-06-17,CUST-133,Salman Baig,Phone Case,Accessories,6,1200,400,Rawalpindi
+ORD-1039,2026-05-17,CUST-126,Amna Rauf,Blender,Home & Kitchen,7,7600,5600,Peshawar
+ORD-1039,2026-05-17,CUST-126,Amna Rauf,Gel Pen Box,Stationery,3,600,330,Peshawar
+ORD-1040,2026-06-12,CUST-139,Yasir Latif,Phone Case,Accessories,7,1200,400,Islamabad
+ORD-1041,2026-02-15,CUST-138,Alina Pervez,Blender,Home & Kitchen,4,8500,5600,Karachi
+ORD-1041,2026-02-15,CUST-138,Alina Pervez,Water Bottle,Home & Kitchen,3,1800,900,Karachi
+ORD-1041,2026-02-15,CUST-138,Alina Pervez,Air Fryer,Home & Kitchen,2,18000,12500,Karachi
+ORD-1042,2026-06-11,CUST-108,Fatima Noor,Study Desk,Furniture,1,28000,18500,Peshawar
+ORD-1042,2026-06-11,CUST-108,Fatima Noor,Office Chair,Furniture,1,22000,14000,Peshawar
+ORD-1042,2026-06-11,CUST-108,Fatima Noor,Blender,Home & Kitchen,7,8500,5600,Peshawar
+ORD-1043,2026-03-08,CUST-102,Sara Ahmed,Study Desk,Furniture,2,25200,18500,Islamabad
+ORD-1043,2026-03-08,CUST-102,Sara Ahmed,Water Bottle,Home & Kitchen,6,1800,900,Islamabad
+ORD-1044,2026-02-01,CUST-139,Yasir Latif,Printer Paper Ream,Stationery,5,1500,1100,Islamabad
+ORD-1045,2026-01-30,CUST-114,Sana Javed,Bookshelf,Furniture,1,15200,10500,Islamabad
+ORD-1045,2026-01-30,CUST-114,Sana Javed,Printer Paper Ream,Stationery,4,1500,1100,Islamabad
+ORD-1046,2026-01-13,CUST-114,Sana Javed,Study Desk,Furniture,2,28000,18500,Islamabad
+ORD-1047,2026-06-24,CUST-138,Alina Pervez,Water Bottle,Home & Kitchen,2,1800,900,Karachi
+ORD-1047,2026-06-24,CUST-138,Alina Pervez,Backpack,Accessories,5,5200,3000,Karachi
+ORD-1048,2026-03-18,CUST-128,Bushra Anwar,Smart Watch,Electronics,2,14200,10000,Islamabad
+ORD-1049,2026-05-16,CUST-136,Nimra Saeed,Bookshelf,Furniture,1,16000,10500,Islamabad
+ORD-1049,2026-05-16,CUST-136,Nimra Saeed,Gel Pen Box,Stationery,5,600,330,Islamabad
+ORD-1050,2026-04-06,CUST-123,Kamran Akbar,Notebook Pack,Stationery,8,800,450,Karachi
+ORD-1050,2026-04-06,CUST-123,Kamran Akbar,Phone Case,Accessories,8,1200,400,Karachi
+ORD-1051,2026-05-13,CUST-110,Maryam Iqbal,Smartphone,Electronics,1,60000,48000,Peshawar
+ORD-1051,2026-05-13,CUST-110,Maryam Iqbal,Backpack,Accessories,4,5500,3000,Peshawar
+ORD-1052,2026-02-08,CUST-102,Sara Ahmed,Printer Paper Ream,Stationery,2,1400,1100,Islamabad
+ORD-1052,2026-02-08,CUST-102,Sara Ahmed,Backpack,Accessories,7,5000,3000,Islamabad
+ORD-1052,2026-02-08,CUST-102,Sara Ahmed,Blender,Home & Kitchen,4,8100,5600,Islamabad
+ORD-1053,2026-04-17,CUST-108,Fatima Noor,Phone Case,Accessories,2,1100,400,Peshawar
+ORD-1054,2026-02-24,CUST-133,Salman Baig,Laptop,Electronics,1,90200,78000,Rawalpindi
+ORD-1054,2026-02-24,CUST-133,Salman Baig,Gel Pen Box,Stationery,3,600,330,Rawalpindi
+ORD-1054,2026-02-24,CUST-133,Salman Baig,Smart Watch,Electronics,2,14200,10000,Rawalpindi
+ORD-1055,2026-05-06,CUST-129,Adeel Farooq,Backpack,Accessories,3,5200,3000,Rawalpindi
+ORD-1055,2026-05-06,CUST-129,Adeel Farooq,Gel Pen Box,Stationery,8,600,330,Rawalpindi
+ORD-1055,2026-05-06,CUST-129,Adeel Farooq,Notebook Pack,Stationery,4,800,450,Rawalpindi
+ORD-1056,2026-05-29,CUST-119,Danish Aslam,Office Chair,Furniture,2,22000,14000,Islamabad
+ORD-1057,2026-05-22,CUST-108,Fatima Noor,Study Desk,Furniture,1,28000,18500,Peshawar
+ORD-1057,2026-05-22,CUST-108,Fatima Noor,Gel Pen Box,Stationery,3,600,330,Peshawar
+ORD-1058,2026-03-29,CUST-106,Hina Raza,Smartphone,Electronics,2,57000,48000,Rawalpindi
+ORD-1059,2026-03-19,CUST-114,Sana Javed,Smart Watch,Electronics,2,14200,10000,Islamabad
+ORD-1060,2026-06-18,CUST-123,Kamran Akbar,Backpack,Accessories,7,5200,3000,Karachi
+ORD-1061,2026-01-02,CUST-112,Noor Fatima,Backpack,Accessories,4,5200,3000,Islamabad
+ORD-1061,2026-01-02,CUST-112,Noor Fatima,Phone Case,Accessories,4,1200,400,Islamabad
+ORD-1061,2026-01-02,CUST-112,Noor Fatima,Bookshelf,Furniture,2,15200,10500,Islamabad
+ORD-1062,2026-01-08,CUST-111,Hassan Raza,Air Fryer,Home & Kitchen,1,16200,12500,Karachi
+ORD-1062,2026-01-08,CUST-111,Hassan Raza,Wireless Earbuds,Electronics,1,8600,5500,Karachi
+ORD-1062,2026-01-08,CUST-111,Hassan Raza,Notebook Pack,Stationery,1,800,450,Karachi
+ORD-1063,2026-05-11,CUST-105,Bilal Hussain,Wireless Earbuds,Electronics,7,9000,5500,Rawalpindi
+ORD-1063,2026-05-11,CUST-105,Bilal Hussain,Laptop,Electronics,1,90200,78000,Rawalpindi
+ORD-1063,2026-05-11,CUST-105,Bilal Hussain,Office Chair,Furniture,2,22000,14000,Rawalpindi
+ORD-1064,2026-05-29,CUST-112,Noor Fatima,Office Chair,Furniture,2,22000,14000,Islamabad
+ORD-1064,2026-05-29,CUST-112,Noor Fatima,Backpack,Accessories,1,5500,3000,Islamabad
+ORD-1064,2026-05-29,CUST-112,Noor Fatima,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1065,2026-06-01,CUST-125,Owais Hanif,Smart Watch,Electronics,1,15000,10000,Karachi
+ORD-1066,2026-05-08,CUST-108,Fatima Noor,Water Bottle,Home & Kitchen,4,1700,900,Peshawar
+ORD-1066,2026-05-08,CUST-108,Fatima Noor,Smartphone,Electronics,2,60000,48000,Peshawar
+ORD-1066,2026-05-08,CUST-108,Fatima Noor,Printer Paper Ream,Stationery,3,1400,1100,Peshawar
+ORD-1067,2026-05-06,CUST-131,Junaid Aziz,Blender,Home & Kitchen,3,8500,5600,Lahore
+ORD-1068,2026-01-30,CUST-102,Sara Ahmed,Printer Paper Ream,Stationery,7,1400,1100,Islamabad
+ORD-1068,2026-01-30,CUST-102,Sara Ahmed,Water Bottle,Home & Kitchen,4,1800,900,Islamabad
+ORD-1069,2026-05-03,CUST-134,Eman Zahid,Smartphone,Electronics,2,54000,48000,Rawalpindi
+ORD-1070,2026-06-04,CUST-133,Salman Baig,Study Desk,Furniture,2,28000,18500,Rawalpindi
+ORD-1071,2026-01-19,CUST-125,Owais Hanif,Backpack,Accessories,7,5200,3000,Karachi
+ORD-1072,2026-01-29,CUST-139,Yasir Latif,Air Fryer,Home & Kitchen,1,16200,12500,Islamabad
+ORD-1072,2026-01-29,CUST-139,Yasir Latif,Wireless Earbuds,Electronics,5,8100,5500,Islamabad
+ORD-1072,2026-01-29,CUST-139,Yasir Latif,Bookshelf,Furniture,2,15200,10500,Islamabad
+ORD-1073,2026-04-07,CUST-130,Komal Rehman,Study Desk,Furniture,1,28000,18500,Karachi
+ORD-1073,2026-04-07,CUST-130,Komal Rehman,Backpack,Accessories,5,5200,3000,Karachi
+ORD-1074,2026-03-02,CUST-114,Sana Javed,Study Desk,Furniture,2,28000,18500,Islamabad
+ORD-1074,2026-03-02,CUST-114,Sana Javed,Laptop,Electronics,2,95000,78000,Islamabad
+ORD-1074,2026-03-02,CUST-114,Sana Javed,Notebook Pack,Stationery,6,800,450,Islamabad
+ORD-1075,2026-03-20,CUST-135,Rizwan Chaudhry,Gel Pen Box,Stationery,4,600,330,Lahore
+ORD-1075,2026-03-20,CUST-135,Rizwan Chaudhry,Laptop,Electronics,1,90200,78000,Lahore
+ORD-1076,2026-04-16,CUST-132,Hira Nadeem,Water Bottle,Home & Kitchen,8,1800,900,Lahore
+ORD-1076,2026-04-16,CUST-132,Hira Nadeem,Air Fryer,Home & Kitchen,1,18000,12500,Lahore
+ORD-1076,2026-04-16,CUST-132,Hira Nadeem,Notebook Pack,Stationery,4,800,450,Lahore
+ORD-1077,2026-05-18,CUST-110,Maryam Iqbal,Notebook Pack,Stationery,6,800,450,Peshawar
+ORD-1077,2026-05-18,CUST-110,Maryam Iqbal,Gel Pen Box,Stationery,6,600,330,Peshawar
+ORD-1078,2026-05-20,CUST-110,Maryam Iqbal,Smart Watch,Electronics,1,15000,10000,Peshawar
+ORD-1078,2026-05-20,CUST-110,Maryam Iqbal,Smartphone,Electronics,1,54000,48000,Peshawar
+ORD-1079,2026-06-24,CUST-128,Bushra Anwar,Smart Watch,Electronics,2,15000,10000,Islamabad
+ORD-1080,2026-05-23,CUST-139,Yasir Latif,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1080,2026-05-23,CUST-139,Yasir Latif,Backpack,Accessories,4,5500,3000,Islamabad
+ORD-1081,2026-02-15,CUST-101,Ali Khan,Office Chair,Furniture,1,22000,14000,Islamabad
+ORD-1082,2026-04-27,CUST-128,Bushra Anwar,Water Bottle,Home & Kitchen,8,1800,900,Islamabad
+ORD-1083,2026-06-13,CUST-123,Kamran Akbar,Notebook Pack,Stationery,3,800,450,Karachi
+ORD-1083,2026-06-13,CUST-123,Kamran Akbar,Phone Case,Accessories,5,1100,400,Karachi
+ORD-1083,2026-06-13,CUST-123,Kamran Akbar,Study Desk,Furniture,1,28000,18500,Karachi
+ORD-1084,2026-04-01,CUST-102,Sara Ahmed,Wireless Earbuds,Electronics,3,8100,5500,Islamabad
+ORD-1085,2026-06-24,CUST-103,Usman Tariq,Smartphone,Electronics,2,54000,48000,Lahore
+ORD-1086,2026-05-04,CUST-124,Zara Yousaf,Notebook Pack,Stationery,7,800,450,Rawalpindi
+ORD-1086,2026-05-04,CUST-124,Zara Yousaf,Phone Case,Accessories,1,1100,400,Rawalpindi
+ORD-1086,2026-05-04,CUST-124,Zara Yousaf,Office Chair,Furniture,1,22000,14000,Rawalpindi
+ORD-1087,2026-05-08,CUST-110,Maryam Iqbal,Wireless Earbuds,Electronics,4,9000,5500,Peshawar
+ORD-1088,2026-04-27,CUST-106,Hina Raza,Notebook Pack,Stationery,8,800,450,Rawalpindi
+ORD-1088,2026-04-27,CUST-106,Hina Raza,Air Fryer,Home & Kitchen,1,18000,12500,Rawalpindi
+ORD-1088,2026-04-27,CUST-106,Hina Raza,Printer Paper Ream,Stationery,5,1500,1100,Rawalpindi
+ORD-1089,2026-05-20,CUST-114,Sana Javed,Phone Case,Accessories,5,1100,400,Islamabad
+ORD-1090,2026-05-14,CUST-138,Alina Pervez,Smartphone,Electronics,1,60000,48000,Karachi
+ORD-1090,2026-05-14,CUST-138,Alina Pervez,Gel Pen Box,Stationery,3,600,330,Karachi
+ORD-1090,2026-05-14,CUST-138,Alina Pervez,Smart Watch,Electronics,1,15000,10000,Karachi
+ORD-1091,2026-06-02,CUST-123,Kamran Akbar,Notebook Pack,Stationery,8,800,450,Karachi
+ORD-1091,2026-06-02,CUST-123,Kamran Akbar,Smartphone,Electronics,2,60000,48000,Karachi
+ORD-1092,2026-04-18,CUST-116,Iqra Siddiqui,Printer Paper Ream,Stationery,1,1400,1100,Rawalpindi
+ORD-1093,2026-05-25,CUST-124,Zara Yousaf,Smartphone,Electronics,1,54000,48000,Rawalpindi
+ORD-1094,2026-05-02,CUST-102,Sara Ahmed,Printer Paper Ream,Stationery,3,1400,1100,Islamabad
+ORD-1094,2026-05-02,CUST-102,Sara Ahmed,Laptop,Electronics,2,95000,78000,Islamabad
+ORD-1095,2026-02-16,CUST-123,Kamran Akbar,Smartphone,Electronics,2,60000,48000,Karachi
+ORD-1095,2026-02-16,CUST-123,Kamran Akbar,Notebook Pack,Stationery,6,800,450,Karachi
+ORD-1095,2026-02-16,CUST-123,Kamran Akbar,Study Desk,Furniture,1,28000,18500,Karachi
+ORD-1096,2026-04-03,CUST-116,Iqra Siddiqui,Backpack,Accessories,1,5200,3000,Rawalpindi
+ORD-1096,2026-04-03,CUST-116,Iqra Siddiqui,Blender,Home & Kitchen,2,8500,5600,Rawalpindi
+ORD-1096,2026-04-03,CUST-116,Iqra Siddiqui,Gel Pen Box,Stationery,5,600,330,Rawalpindi
+ORD-1097,2026-02-01,CUST-133,Salman Baig,Water Bottle,Home & Kitchen,8,1700,900,Rawalpindi
+ORD-1098,2026-01-15,CUST-118,Mehwish Ali,Water Bottle,Home & Kitchen,1,1800,900,Peshawar
+ORD-1098,2026-01-15,CUST-118,Mehwish Ali,Notebook Pack,Stationery,5,700,450,Peshawar
+ORD-1098,2026-01-15,CUST-118,Mehwish Ali,Blender,Home & Kitchen,3,8500,5600,Peshawar
+ORD-1099,2026-04-07,CUST-128,Bushra Anwar,Laptop,Electronics,1,95000,78000,Islamabad
+ORD-1100,2026-03-15,CUST-101,Ali Khan,Smartphone,Electronics,2,60000,48000,Islamabad
+ORD-1100,2026-03-15,CUST-101,Ali Khan,Smart Watch,Electronics,1,14200,10000,Islamabad
+ORD-1100,2026-03-15,CUST-101,Ali Khan,Phone Case,Accessories,5,1100,400,Islamabad
+ORD-1101,2026-05-20,CUST-113,Asad Mehmood,Notebook Pack,Stationery,3,800,450,Islamabad
+ORD-1101,2026-05-20,CUST-113,Asad Mehmood,Smart Watch,Electronics,1,13500,10000,Islamabad
+ORD-1101,2026-05-20,CUST-113,Asad Mehmood,Phone Case,Accessories,3,1200,400,Islamabad
+ORD-1102,2026-03-08,CUST-133,Salman Baig,Study Desk,Furniture,2,28000,18500,Rawalpindi
+ORD-1102,2026-03-08,CUST-133,Salman Baig,Blender,Home & Kitchen,5,8500,5600,Rawalpindi
+ORD-1102,2026-03-08,CUST-133,Salman Baig,Gel Pen Box,Stationery,8,600,330,Rawalpindi
+ORD-1103,2026-04-09,CUST-115,Talha Butt,Gel Pen Box,Stationery,7,600,330,Rawalpindi
+ORD-1103,2026-04-09,CUST-115,Talha Butt,Blender,Home & Kitchen,6,8500,5600,Rawalpindi
+ORD-1104,2026-06-28,CUST-108,Fatima Noor,Smart Watch,Electronics,2,15000,10000,Peshawar
+ORD-1104,2026-06-28,CUST-108,Fatima Noor,Backpack,Accessories,6,5200,3000,Peshawar
+ORD-1104,2026-06-28,CUST-108,Fatima Noor,Blender,Home & Kitchen,7,8100,5600,Peshawar
+ORD-1105,2026-06-29,CUST-133,Salman Baig,Notebook Pack,Stationery,1,800,450,Rawalpindi
+ORD-1106,2026-04-18,CUST-123,Kamran Akbar,Backpack,Accessories,8,5500,3000,Karachi
+ORD-1107,2026-04-22,CUST-114,Sana Javed,Bookshelf,Furniture,1,16000,10500,Islamabad
+ORD-1108,2026-04-13,CUST-139,Yasir Latif,Printer Paper Ream,Stationery,7,1500,1100,Islamabad
+ORD-1108,2026-04-13,CUST-139,Yasir Latif,Air Fryer,Home & Kitchen,2,16200,12500,Islamabad
+ORD-1109,2026-03-28,CUST-111,Hassan Raza,Backpack,Accessories,2,5500,3000,Karachi
+ORD-1109,2026-03-28,CUST-111,Hassan Raza,Gel Pen Box,Stationery,5,600,330,Karachi
+ORD-1109,2026-03-28,CUST-111,Hassan Raza,Laptop,Electronics,1,90200,78000,Karachi
+ORD-1110,2026-06-28,CUST-132,Hira Nadeem,Notebook Pack,Stationery,3,800,450,Lahore
+ORD-1111,2026-06-17,CUST-102,Sara Ahmed,Office Chair,Furniture,2,22000,14000,Islamabad
+ORD-1112,2026-04-06,CUST-108,Fatima Noor,Printer Paper Ream,Stationery,3,1500,1100,Peshawar
+ORD-1112,2026-04-06,CUST-108,Fatima Noor,Water Bottle,Home & Kitchen,3,1800,900,Peshawar
+ORD-1112,2026-04-06,CUST-108,Fatima Noor,Blender,Home & Kitchen,7,7600,5600,Peshawar
+ORD-1113,2026-05-17,CUST-116,Iqra Siddiqui,Smart Watch,Electronics,2,15000,10000,Rawalpindi
+ORD-1114,2026-04-11,CUST-126,Amna Rauf,Phone Case,Accessories,3,1200,400,Peshawar
+ORD-1114,2026-04-11,CUST-126,Amna Rauf,Office Chair,Furniture,2,22000,14000,Peshawar
+ORD-1114,2026-04-11,CUST-126,Amna Rauf,Water Bottle,Home & Kitchen,5,1700,900,Peshawar
+ORD-1115,2026-05-18,CUST-114,Sana Javed,Smart Watch,Electronics,2,15000,10000,Islamabad
+ORD-1115,2026-05-18,CUST-114,Sana Javed,Bookshelf,Furniture,1,15200,10500,Islamabad
+ORD-1116,2026-04-30,CUST-123,Kamran Akbar,Laptop,Electronics,2,95000,78000,Karachi
+ORD-1116,2026-04-30,CUST-123,Kamran Akbar,Backpack,Accessories,1,5000,3000,Karachi
+ORD-1117,2026-06-12,CUST-133,Salman Baig,Phone Case,Accessories,8,1200,400,Rawalpindi
+ORD-1118,2026-05-31,CUST-108,Fatima Noor,Smart Watch,Electronics,1,13500,10000,Peshawar
+ORD-1118,2026-05-31,CUST-108,Fatima Noor,Water Bottle,Home & Kitchen,5,1800,900,Peshawar
+ORD-1119,2026-05-09,CUST-136,Nimra Saeed,Office Chair,Furniture,2,22000,14000,Islamabad
+ORD-1120,2026-05-01,CUST-130,Komal Rehman,Phone Case,Accessories,5,1200,400,Karachi
+ORD-1121,2026-05-27,CUST-106,Hina Raza,Blender,Home & Kitchen,6,7600,5600,Rawalpindi
+ORD-1122,2026-04-18,CUST-110,Maryam Iqbal,Office Chair,Furniture,2,22000,14000,Peshawar
+ORD-1123,2026-05-27,CUST-112,Noor Fatima,Notebook Pack,Stationery,2,800,450,Islamabad
+ORD-1124,2026-05-28,CUST-108,Fatima Noor,Backpack,Accessories,6,5500,3000,Peshawar
+ORD-1124,2026-05-28,CUST-108,Fatima Noor,Blender,Home & Kitchen,7,8500,5600,Peshawar
+ORD-1124,2026-05-28,CUST-108,Fatima Noor,Gel Pen Box,Stationery,5,500,330,Peshawar
+ORD-1125,2026-02-03,CUST-112,Noor Fatima,Printer Paper Ream,Stationery,6,1500,1100,Islamabad
+ORD-1125,2026-02-03,CUST-112,Noor Fatima,Bookshelf,Furniture,1,15200,10500,Islamabad
+ORD-1126,2026-01-07,CUST-135,Rizwan Chaudhry,Phone Case,Accessories,4,1200,400,Lahore
+ORD-1126,2026-01-07,CUST-135,Rizwan Chaudhry,Printer Paper Ream,Stationery,8,1500,1100,Lahore
+ORD-1127,2026-05-12,CUST-105,Bilal Hussain,Laptop,Electronics,2,90200,78000,Rawalpindi
+ORD-1128,2026-02-01,CUST-108,Fatima Noor,Bookshelf,Furniture,2,16000,10500,Peshawar
+ORD-1129,2026-05-15,CUST-131,Junaid Aziz,Printer Paper Ream,Stationery,3,1400,1100,Lahore
+ORD-1129,2026-05-15,CUST-131,Junaid Aziz,Air Fryer,Home & Kitchen,1,17100,12500,Lahore
+ORD-1129,2026-05-15,CUST-131,Junaid Aziz,Backpack,Accessories,7,5500,3000,Lahore
+ORD-1130,2026-01-09,CUST-112,Noor Fatima,Notebook Pack,Stationery,2,800,450,Islamabad
+ORD-1130,2026-01-09,CUST-112,Noor Fatima,Smart Watch,Electronics,2,15000,10000,Islamabad
+ORD-1130,2026-01-09,CUST-112,Noor Fatima,Study Desk,Furniture,2,28000,18500,Islamabad
+ORD-1131,2026-02-18,CUST-105,Bilal Hussain,Smartphone,Electronics,1,60000,48000,Rawalpindi
+ORD-1131,2026-02-18,CUST-105,Bilal Hussain,Water Bottle,Home & Kitchen,6,1800,900,Rawalpindi
+ORD-1131,2026-02-18,CUST-105,Bilal Hussain,Smart Watch,Electronics,1,13500,10000,Rawalpindi
+ORD-1132,2026-02-21,CUST-134,Eman Zahid,Printer Paper Ream,Stationery,4,1500,1100,Rawalpindi
+ORD-1133,2026-03-18,CUST-106,Hina Raza,Office Chair,Furniture,1,22000,14000,Rawalpindi
+ORD-1134,2026-04-25,CUST-133,Salman Baig,Water Bottle,Home & Kitchen,1,1800,900,Rawalpindi
+ORD-1135,2026-01-05,CUST-133,Salman Baig,Printer Paper Ream,Stationery,6,1500,1100,Rawalpindi
+ORD-1136,2026-02-14,CUST-102,Sara Ahmed,Gel Pen Box,Stationery,2,600,330,Islamabad
+ORD-1136,2026-02-14,CUST-102,Sara Ahmed,Smartphone,Electronics,2,60000,48000,Islamabad
+ORD-1136,2026-02-14,CUST-102,Sara Ahmed,Air Fryer,Home & Kitchen,1,17100,12500,Islamabad
+ORD-1137,2026-04-19,CUST-138,Alina Pervez,Air Fryer,Home & Kitchen,2,17100,12500,Karachi
+ORD-1138,2026-05-11,CUST-102,Sara Ahmed,Backpack,Accessories,2,5200,3000,Islamabad
+ORD-1138,2026-05-11,CUST-102,Sara Ahmed,Bookshelf,Furniture,2,16000,10500,Islamabad
+ORD-1138,2026-05-11,CUST-102,Sara Ahmed,Phone Case,Accessories,2,1200,400,Islamabad
+ORD-1139,2026-05-06,CUST-102,Sara Ahmed,Printer Paper Ream,Stationery,6,1400,1100,Islamabad
+ORD-1139,2026-05-06,CUST-102,Sara Ahmed,Water Bottle,Home & Kitchen,5,1700,900,Islamabad
+ORD-1140,2026-04-19,CUST-114,Sana Javed,Backpack,Accessories,4,5200,3000,Islamabad
+ORD-1141,2026-04-10,CUST-108,Fatima Noor,Backpack,Accessories,7,5200,3000,Peshawar
+ORD-1141,2026-04-10,CUST-108,Fatima Noor,Notebook Pack,Stationery,2,800,450,Peshawar
+ORD-1142,2026-04-05,CUST-126,Amna Rauf,Wireless Earbuds,Electronics,8,9000,5500,Peshawar
+ORD-1142,2026-04-05,CUST-126,Amna Rauf,Water Bottle,Home & Kitchen,2,1800,900,Peshawar
+ORD-1143,2026-01-26,CUST-103,Usman Tariq,Blender,Home & Kitchen,1,7600,5600,Lahore
+ORD-1143,2026-01-26,CUST-103,Usman Tariq,Wireless Earbuds,Electronics,6,9000,5500,Lahore
+ORD-1144,2026-04-03,CUST-135,Rizwan Chaudhry,Backpack,Accessories,5,5000,3000,Lahore
+ORD-1144,2026-04-03,CUST-135,Rizwan Chaudhry,Air Fryer,Home & Kitchen,2,18000,12500,Lahore
+ORD-1144,2026-04-03,CUST-135,Rizwan Chaudhry,Laptop,Electronics,1,85500,78000,Lahore
+ORD-1145,2026-04-19,CUST-106,Hina Raza,Smart Watch,Electronics,2,13500,10000,Rawalpindi
+ORD-1145,2026-04-19,CUST-106,Hina Raza,Backpack,Accessories,6,5500,3000,Rawalpindi
+ORD-1145,2026-04-19,CUST-106,Hina Raza,Smartphone,Electronics,2,54000,48000,Rawalpindi
+ORD-1146,2026-02-26,CUST-114,Sana Javed,Printer Paper Ream,Stationery,5,1500,1100,Islamabad
+ORD-1147,2026-02-16,CUST-128,Bushra Anwar,Phone Case,Accessories,6,1200,400,Islamabad
+ORD-1147,2026-02-16,CUST-128,Bushra Anwar,Study Desk,Furniture,1,28000,18500,Islamabad
+ORD-1148,2026-04-29,CUST-113,Asad Mehmood,Air Fryer,Home & Kitchen,1,18000,12500,Islamabad
+ORD-1149,2026-05-26,CUST-108,Fatima Noor,Notebook Pack,Stationery,6,800,450,Peshawar
+ORD-1149,2026-05-26,CUST-108,Fatima Noor,Study Desk,Furniture,2,25200,18500,Peshawar
+ORD-1149,2026-05-26,CUST-108,Fatima Noor,Wireless Earbuds,Electronics,2,9000,5500,Peshawar
+ORD-1150,2026-02-10,CUST-131,Junaid Aziz,Water Bottle,Home & Kitchen,2,1800,900,Lahore
+ORD-1151,2026-04-08,CUST-114,Sana Javed,Bookshelf,Furniture,1,16000,10500,Islamabad
+ORD-1151,2026-04-08,CUST-114,Sana Javed,Office Chair,Furniture,2,22000,14000,Islamabad
+ORD-1151,2026-04-08,CUST-114,Sana Javed,Smart Watch,Electronics,2,13500,10000,Islamabad
+ORD-1152,2026-04-16,CUST-126,Amna Rauf,Smart Watch,Electronics,2,13500,10000,Peshawar
+ORD-1153,2026-01-15,CUST-107,Hamza Sheikh,Blender,Home & Kitchen,3,8500,5600,Islamabad
+ORD-1154,2026-03-11,CUST-105,Bilal Hussain,Air Fryer,Home & Kitchen,1,17100,12500,Rawalpindi
+ORD-1154,2026-03-11,CUST-105,Bilal Hussain,Bookshelf,Furniture,1,14400,10500,Rawalpindi
+ORD-1154,2026-03-11,CUST-105,Bilal Hussain,Wireless Earbuds,Electronics,6,9000,5500,Rawalpindi
+ORD-1155,2026-03-31,CUST-131,Junaid Aziz,Laptop,Electronics,2,85500,78000,Lahore
+ORD-1155,2026-03-31,CUST-131,Junaid Aziz,Notebook Pack,Stationery,7,700,450,Lahore
+ORD-1155,2026-03-31,CUST-131,Junaid Aziz,Smartphone,Electronics,2,57000,48000,Lahore
+ORD-1156,2026-03-11,CUST-113,Asad Mehmood,Wireless Earbuds,Electronics,8,9000,5500,Islamabad
+ORD-1156,2026-03-11,CUST-113,Asad Mehmood,Blender,Home & Kitchen,2,8100,5600,Islamabad
+ORD-1157,2026-06-09,CUST-108,Fatima Noor,Gel Pen Box,Stationery,5,600,330,Peshawar
+ORD-1157,2026-06-09,CUST-108,Fatima Noor,Smartphone,Electronics,1,60000,48000,Peshawar
+ORD-1157,2026-06-09,CUST-108,Fatima Noor,Bookshelf,Furniture,1,16000,10500,Peshawar
+ORD-1158,2026-04-20,CUST-105,Bilal Hussain,Phone Case,Accessories,6,1200,400,Rawalpindi
+ORD-1159,2026-05-24,CUST-133,Salman Baig,Smart Watch,Electronics,1,15000,10000,Rawalpindi
+ORD-1160,2026-03-04,CUST-106,Hina Raza,Blender,Home & Kitchen,2,8500,5600,Rawalpindi
+ORD-1161,2026-06-24,CUST-125,Owais Hanif,Blender,Home & Kitchen,8,7600,5600,Karachi
+ORD-1161,2026-06-24,CUST-125,Owais Hanif,Printer Paper Ream,Stationery,6,1500,1100,Karachi
+ORD-1161,2026-06-24,CUST-125,Owais Hanif,Phone Case,Accessories,3,1100,400,Karachi
+ORD-1162,2026-01-19,CUST-114,Sana Javed,Blender,Home & Kitchen,1,8500,5600,Islamabad
+ORD-1162,2026-01-19,CUST-114,Sana Javed,Office Chair,Furniture,1,22000,14000,Islamabad
+ORD-1163,2026-04-11,CUST-102,Sara Ahmed,Backpack,Accessories,2,5500,3000,Islamabad
+ORD-1163,2026-04-11,CUST-102,Sara Ahmed,Office Chair,Furniture,2,20900,14000,Islamabad
+ORD-1164,2026-05-01,CUST-139,Yasir Latif,Notebook Pack,Stationery,4,800,450,Islamabad
+ORD-1165,2026-05-05,CUST-117,Faisal Qureshi,Notebook Pack,Stationery,2,800,450,Peshawar
+ORD-1166,2026-06-28,CUST-103,Usman Tariq,Laptop,Electronics,1,90200,78000,Lahore
+ORD-1167,2026-06-29,CUST-119,Danish Aslam,Study Desk,Furniture,2,28000,18500,Islamabad
+ORD-1168,2026-03-30,CUST-133,Salman Baig,Blender,Home & Kitchen,6,8500,5600,Rawalpindi
+ORD-1169,2026-03-18,CUST-121,Imran Ghani,Office Chair,Furniture,1,22000,14000,Rawalpindi
+ORD-1169,2026-03-18,CUST-121,Imran Ghani,Phone Case,Accessories,2,1100,400,Rawalpindi
+ORD-1169,2026-03-18,CUST-121,Imran Ghani,Air Fryer,Home & Kitchen,1,18000,12500,Rawalpindi
+ORD-1170,2026-03-15,CUST-126,Amna Rauf,Wireless Earbuds,Electronics,2,9000,5500,Peshawar
+ORD-1170,2026-03-15,CUST-126,Amna Rauf,Printer Paper Ream,Stationery,7,1500,1100,Peshawar
+ORD-1170,2026-03-15,CUST-126,Amna Rauf,Air Fryer,Home & Kitchen,1,16200,12500,Peshawar
+ORD-1171,2026-01-26,CUST-126,Amna Rauf,Laptop,Electronics,2,95000,78000,Peshawar
+ORD-1171,2026-01-26,CUST-126,Amna Rauf,Study Desk,Furniture,1,28000,18500,Peshawar
+ORD-1172,2026-06-23,CUST-115,Talha Butt,Wireless Earbuds,Electronics,3,9000,5500,Rawalpindi
+ORD-1173,2026-03-12,CUST-133,Salman Baig,Water Bottle,Home & Kitchen,6,1600,900,Rawalpindi
+ORD-1174,2026-02-04,CUST-112,Noor Fatima,Wireless Earbuds,Electronics,3,8600,5500,Islamabad
+ORD-1175,2026-01-12,CUST-112,Noor Fatima,Notebook Pack,Stationery,5,800,450,Islamabad
+ORD-1176,2026-02-28,CUST-108,Fatima Noor,Phone Case,Accessories,6,1100,400,Peshawar
+ORD-1176,2026-02-28,CUST-108,Fatima Noor,Backpack,Accessories,8,5200,3000,Peshawar
+ORD-1176,2026-02-28,CUST-108,Fatima Noor,Smart Watch,Electronics,2,14200,10000,Peshawar
+ORD-1177,2026-04-18,CUST-114,Sana Javed,Backpack,Accessories,4,5000,3000,Islamabad
+ORD-1178,2026-02-06,CUST-109,Zain Abbas,Backpack,Accessories,2,5000,3000,Islamabad
+ORD-1178,2026-02-06,CUST-109,Zain Abbas,Study Desk,Furniture,1,28000,18500,Islamabad
+ORD-1178,2026-02-06,CUST-109,Zain Abbas,Gel Pen Box,Stationery,2,600,330,Islamabad
+ORD-1179,2026-03-07,CUST-136,Nimra Saeed,Backpack,Accessories,7,5500,3000,Islamabad
+ORD-1180,2026-06-23,CUST-108,Fatima Noor,Phone Case,Accessories,7,1200,400,Peshawar
+ORD-1180,2026-06-23,CUST-108,Fatima Noor,Study Desk,Furniture,2,25200,18500,Peshawar
+ORD-1180,2026-06-23,CUST-108,Fatima Noor,Laptop,Electronics,2,95000,78000,Peshawar
+ORD-1181,2026-03-29,CUST-102,Sara Ahmed,Laptop,Electronics,2,95000,78000,Islamabad
+ORD-1182,2026-06-09,CUST-125,Owais Hanif,Wireless Earbuds,Electronics,1,9000,5500,Karachi
+ORD-1183,2026-06-19,CUST-114,Sana Javed,Blender,Home & Kitchen,8,8100,5600,Islamabad
+ORD-1184,2026-05-07,CUST-136,Nimra Saeed,Office Chair,Furniture,1,22000,14000,Islamabad
+ORD-1185,2026-04-26,CUST-130,Komal Rehman,Smartphone,Electronics,1,60000,48000,Karachi
+ORD-1185,2026-04-26,CUST-130,Komal Rehman,Blender,Home & Kitchen,2,8500,5600,Karachi
+ORD-1185,2026-04-26,CUST-130,Komal Rehman,Office Chair,Furniture,1,20900,14000,Karachi
+ORD-1186,2026-05-10,CUST-125,Owais Hanif,Smartphone,Electronics,2,54000,48000,Karachi
+ORD-1187,2026-04-24,CUST-125,Owais Hanif,Air Fryer,Home & Kitchen,1,18000,12500,Karachi
+ORD-1188,2026-04-06,CUST-124,Zara Yousaf,Printer Paper Ream,Stationery,7,1500,1100,Rawalpindi
+ORD-1189,2026-05-14,CUST-103,Usman Tariq,Smartphone,Electronics,1,57000,48000,Lahore
+ORD-1189,2026-05-14,CUST-103,Usman Tariq,Gel Pen Box,Stationery,8,600,330,Lahore
+ORD-1190,2026-05-10,CUST-140,Tooba Kamal,Air Fryer,Home & Kitchen,2,18000,12500,Lahore
+ORD-1190,2026-05-10,CUST-140,Tooba Kamal,Laptop,Electronics,2,95000,78000,Lahore
+ORD-1191,2026-05-25,CUST-125,Owais Hanif,Wireless Earbuds,Electronics,6,8100,5500,Karachi
+ORD-1191,2026-05-25,CUST-125,Owais Hanif,Laptop,Electronics,2,95000,78000,Karachi
+ORD-1192,2026-06-07,CUST-128,Bushra Anwar,Water Bottle,Home & Kitchen,3,1800,900,Islamabad
+ORD-1192,2026-06-07,CUST-128,Bushra Anwar,Wireless Earbuds,Electronics,8,9000,5500,Islamabad
+ORD-1192,2026-06-07,CUST-128,Bushra Anwar,Blender,Home & Kitchen,5,8500,5600,Islamabad
+ORD-1193,2026-01-12,CUST-106,Hina Raza,Study Desk,Furniture,2,25200,18500,Rawalpindi
+ORD-1194,2026-04-01,CUST-133,Salman Baig,Office Chair,Furniture,1,22000,14000,Rawalpindi
+ORD-1194,2026-04-01,CUST-133,Salman Baig,Laptop,Electronics,2,95000,78000,Rawalpindi
+ORD-1194,2026-04-01,CUST-133,Salman Baig,Blender,Home & Kitchen,6,8500,5600,Rawalpindi
+ORD-1195,2026-02-03,CUST-112,Noor Fatima,Air Fryer,Home & Kitchen,2,18000,12500,Islamabad
+ORD-1195,2026-02-03,CUST-112,Noor Fatima,Notebook Pack,Stationery,8,800,450,Islamabad
+ORD-1195,2026-02-03,CUST-112,Noor Fatima,Bookshelf,Furniture,2,14400,10500,Islamabad
+ORD-1196,2026-03-06,CUST-103,Usman Tariq,Smartphone,Electronics,1,54000,48000,Lahore
+ORD-1196,2026-03-06,CUST-103,Usman Tariq,Bookshelf,Furniture,2,16000,10500,Lahore
+ORD-1196,2026-03-06,CUST-103,Usman Tariq,Printer Paper Ream,Stationery,2,1500,1100,Lahore
+ORD-1197,2026-03-18,CUST-110,Maryam Iqbal,Printer Paper Ream,Stationery,3,1400,1100,Peshawar
+ORD-1197,2026-03-18,CUST-110,Maryam Iqbal,Air Fryer,Home & Kitchen,2,17100,12500,Peshawar
+ORD-1197,2026-03-18,CUST-110,Maryam Iqbal,Bookshelf,Furniture,1,16000,10500,Peshawar
+ORD-1198,2026-05-07,CUST-114,Sana Javed,Smartphone,Electronics,2,60000,48000,Islamabad
+ORD-1199,2026-04-20,CUST-131,Junaid Aziz,Laptop,Electronics,1,85500,78000,Lahore
+ORD-1200,2026-05-16,CUST-114,Sana Javed,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1201,2026-03-25,CUST-139,Yasir Latif,Printer Paper Ream,Stationery,3,1400,1100,Islamabad
+ORD-1202,2026-06-24,CUST-112,Noor Fatima,Printer Paper Ream,Stationery,3,1400,1100,Islamabad
+ORD-1203,2026-03-26,CUST-110,Maryam Iqbal,Smart Watch,Electronics,1,15000,10000,Peshawar
+ORD-1203,2026-03-26,CUST-110,Maryam Iqbal,Smartphone,Electronics,2,54000,48000,Peshawar
+ORD-1204,2026-03-29,CUST-122,Laiba Shah,Blender,Home & Kitchen,8,8500,5600,Peshawar
+ORD-1204,2026-03-29,CUST-122,Laiba Shah,Office Chair,Furniture,2,20900,14000,Peshawar
+ORD-1205,2026-02-20,CUST-105,Bilal Hussain,Notebook Pack,Stationery,3,800,450,Rawalpindi
+ORD-1206,2026-06-30,CUST-133,Salman Baig,Water Bottle,Home & Kitchen,2,1600,900,Rawalpindi
+ORD-1206,2026-06-30,CUST-133,Salman Baig,Study Desk,Furniture,2,28000,18500,Rawalpindi
+ORD-1207,2026-06-10,CUST-129,Adeel Farooq,Blender,Home & Kitchen,6,7600,5600,Rawalpindi
+ORD-1208,2026-02-25,CUST-140,Tooba Kamal,Smart Watch,Electronics,2,15000,10000,Lahore
+ORD-1209,2026-03-24,CUST-123,Kamran Akbar,Blender,Home & Kitchen,2,8500,5600,Karachi
+ORD-1209,2026-03-24,CUST-123,Kamran Akbar,Gel Pen Box,Stationery,5,600,330,Karachi
+ORD-1209,2026-03-24,CUST-123,Kamran Akbar,Wireless Earbuds,Electronics,8,8100,5500,Karachi
+ORD-1210,2026-04-03,CUST-113,Asad Mehmood,Wireless Earbuds,Electronics,6,9000,5500,Islamabad
+ORD-1211,2026-04-09,CUST-127,Shahid Mirza,Wireless Earbuds,Electronics,3,9000,5500,Lahore
+ORD-1211,2026-04-09,CUST-127,Shahid Mirza,Backpack,Accessories,7,5000,3000,Lahore
+ORD-1212,2026-06-18,CUST-102,Sara Ahmed,Gel Pen Box,Stationery,3,600,330,Islamabad
+ORD-1213,2026-02-12,CUST-111,Hassan Raza,Study Desk,Furniture,2,28000,18500,Karachi
+ORD-1214,2026-03-03,CUST-125,Owais Hanif,Wireless Earbuds,Electronics,5,8100,5500,Karachi
+ORD-1214,2026-03-03,CUST-125,Owais Hanif,Water Bottle,Home & Kitchen,2,1600,900,Karachi
+ORD-1215,2026-05-11,CUST-123,Kamran Akbar,Wireless Earbuds,Electronics,6,8100,5500,Karachi
+ORD-1216,2026-01-12,CUST-135,Rizwan Chaudhry,Laptop,Electronics,2,95000,78000,Lahore
+ORD-1217,2026-05-30,CUST-113,Asad Mehmood,Notebook Pack,Stationery,5,800,450,Islamabad
+ORD-1218,2026-04-15,CUST-133,Salman Baig,Office Chair,Furniture,1,22000,14000,Rawalpindi
+ORD-1218,2026-04-15,CUST-133,Salman Baig,Notebook Pack,Stationery,8,800,450,Rawalpindi
+ORD-1218,2026-04-15,CUST-133,Salman Baig,Smartphone,Electronics,2,57000,48000,Rawalpindi
+ORD-1219,2026-02-21,CUST-124,Zara Yousaf,Backpack,Accessories,6,5500,3000,Rawalpindi
+ORD-1219,2026-02-21,CUST-124,Zara Yousaf,Air Fryer,Home & Kitchen,2,18000,12500,Rawalpindi
+ORD-1220,2026-05-29,CUST-118,Mehwish Ali,Study Desk,Furniture,1,26600,18500,Peshawar
+ORD-1221,2026-02-02,CUST-114,Sana Javed,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1222,2026-06-23,CUST-135,Rizwan Chaudhry,Smart Watch,Electronics,2,13500,10000,Lahore
+ORD-1222,2026-06-23,CUST-135,Rizwan Chaudhry,Backpack,Accessories,6,5500,3000,Lahore
+ORD-1222,2026-06-23,CUST-135,Rizwan Chaudhry,Wireless Earbuds,Electronics,3,8600,5500,Lahore
+ORD-1223,2026-06-30,CUST-114,Sana Javed,Notebook Pack,Stationery,2,800,450,Islamabad
+ORD-1223,2026-06-30,CUST-114,Sana Javed,Laptop,Electronics,2,95000,78000,Islamabad
+ORD-1224,2026-02-23,CUST-112,Noor Fatima,Office Chair,Furniture,2,19800,14000,Islamabad
+ORD-1225,2026-06-15,CUST-126,Amna Rauf,Office Chair,Furniture,1,20900,14000,Peshawar
+ORD-1225,2026-06-15,CUST-126,Amna Rauf,Gel Pen Box,Stationery,3,600,330,Peshawar
+ORD-1225,2026-06-15,CUST-126,Amna Rauf,Laptop,Electronics,2,90200,78000,Peshawar
+ORD-1226,2026-03-25,CUST-113,Asad Mehmood,Study Desk,Furniture,2,28000,18500,Islamabad
+ORD-1227,2026-03-29,CUST-114,Sana Javed,Backpack,Accessories,2,5500,3000,Islamabad
+ORD-1227,2026-03-29,CUST-114,Sana Javed,Printer Paper Ream,Stationery,2,1400,1100,Islamabad
+ORD-1228,2026-03-27,CUST-140,Tooba Kamal,Blender,Home & Kitchen,4,7600,5600,Lahore
+ORD-1228,2026-03-27,CUST-140,Tooba Kamal,Wireless Earbuds,Electronics,7,8100,5500,Lahore
+ORD-1229,2026-01-11,CUST-102,Sara Ahmed,Blender,Home & Kitchen,8,8500,5600,Islamabad
+ORD-1229,2026-01-11,CUST-102,Sara Ahmed,Notebook Pack,Stationery,3,800,450,Islamabad
+ORD-1230,2026-06-21,CUST-111,Hassan Raza,Printer Paper Ream,Stationery,6,1400,1100,Karachi
+ORD-1230,2026-06-21,CUST-111,Hassan Raza,Air Fryer,Home & Kitchen,2,16200,12500,Karachi
+ORD-1230,2026-06-21,CUST-111,Hassan Raza,Office Chair,Furniture,2,20900,14000,Karachi
+ORD-1231,2026-06-05,CUST-112,Noor Fatima,Bookshelf,Furniture,2,16000,10500,Islamabad
+ORD-1232,2026-05-04,CUST-110,Maryam Iqbal,Air Fryer,Home & Kitchen,1,16200,12500,Peshawar
+ORD-1233,2026-04-15,CUST-119,Danish Aslam,Wireless Earbuds,Electronics,4,9000,5500,Islamabad
+ORD-1233,2026-04-15,CUST-119,Danish Aslam,Backpack,Accessories,2,5500,3000,Islamabad
+ORD-1233,2026-04-15,CUST-119,Danish Aslam,Water Bottle,Home & Kitchen,1,1700,900,Islamabad
+ORD-1234,2026-03-15,CUST-106,Hina Raza,Bookshelf,Furniture,2,16000,10500,Rawalpindi
+ORD-1235,2026-05-20,CUST-118,Mehwish Ali,Water Bottle,Home & Kitchen,7,1800,900,Peshawar
+ORD-1235,2026-05-20,CUST-118,Mehwish Ali,Notebook Pack,Stationery,3,800,450,Peshawar
+ORD-1236,2026-06-19,CUST-112,Noor Fatima,Water Bottle,Home & Kitchen,5,1600,900,Islamabad
+ORD-1236,2026-06-19,CUST-112,Noor Fatima,Blender,Home & Kitchen,8,8500,5600,Islamabad
+ORD-1237,2026-06-25,CUST-110,Maryam Iqbal,Smart Watch,Electronics,2,15000,10000,Peshawar
+ORD-1237,2026-06-25,CUST-110,Maryam Iqbal,Office Chair,Furniture,2,22000,14000,Peshawar
+ORD-1238,2026-04-15,CUST-121,Imran Ghani,Office Chair,Furniture,2,20900,14000,Rawalpindi
+ORD-1238,2026-04-15,CUST-121,Imran Ghani,Smartphone,Electronics,2,60000,48000,Rawalpindi
+ORD-1239,2026-03-11,CUST-110,Maryam Iqbal,Study Desk,Furniture,2,28000,18500,Peshawar
+ORD-1240,2026-05-27,CUST-107,Hamza Sheikh,Phone Case,Accessories,5,1200,400,Islamabad
+ORD-1240,2026-05-27,CUST-107,Hamza Sheikh,Gel Pen Box,Stationery,2,500,330,Islamabad
+ORD-1241,2026-05-26,CUST-108,Fatima Noor,Water Bottle,Home & Kitchen,4,1800,900,Peshawar
+ORD-1242,2026-01-15,CUST-113,Asad Mehmood,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1242,2026-01-15,CUST-113,Asad Mehmood,Water Bottle,Home & Kitchen,3,1700,900,Islamabad
+ORD-1242,2026-01-15,CUST-113,Asad Mehmood,Blender,Home & Kitchen,8,8100,5600,Islamabad
+ORD-1243,2026-05-12,CUST-132,Hira Nadeem,Study Desk,Furniture,1,28000,18500,Lahore
+ORD-1243,2026-05-12,CUST-132,Hira Nadeem,Office Chair,Furniture,1,19800,14000,Lahore
+ORD-1244,2026-05-25,CUST-135,Rizwan Chaudhry,Phone Case,Accessories,3,1100,400,Lahore
+ORD-1245,2026-06-14,CUST-106,Hina Raza,Backpack,Accessories,7,5200,3000,Rawalpindi
+ORD-1246,2026-02-17,CUST-131,Junaid Aziz,Phone Case,Accessories,1,1200,400,Lahore
+ORD-1246,2026-02-17,CUST-131,Junaid Aziz,Laptop,Electronics,1,95000,78000,Lahore
+ORD-1247,2026-03-10,CUST-140,Tooba Kamal,Phone Case,Accessories,8,1200,400,Lahore
+ORD-1247,2026-03-10,CUST-140,Tooba Kamal,Wireless Earbuds,Electronics,4,9000,5500,Lahore
+ORD-1247,2026-03-10,CUST-140,Tooba Kamal,Gel Pen Box,Stationery,6,600,330,Lahore
+ORD-1248,2026-05-24,CUST-125,Owais Hanif,Laptop,Electronics,2,95000,78000,Karachi
+ORD-1249,2026-04-29,CUST-132,Hira Nadeem,Printer Paper Ream,Stationery,7,1400,1100,Lahore
+ORD-1250,2026-04-21,CUST-103,Usman Tariq,Wireless Earbuds,Electronics,3,8600,5500,Lahore
+ORD-1251,2026-03-17,CUST-109,Zain Abbas,Bookshelf,Furniture,2,16000,10500,Islamabad
+ORD-1251,2026-03-17,CUST-109,Zain Abbas,Smart Watch,Electronics,2,15000,10000,Islamabad
+ORD-1252,2026-05-02,CUST-123,Kamran Akbar,Water Bottle,Home & Kitchen,4,1800,900,Karachi
+ORD-1252,2026-05-02,CUST-123,Kamran Akbar,Study Desk,Furniture,1,26600,18500,Karachi
+ORD-1253,2026-03-14,CUST-113,Asad Mehmood,Air Fryer,Home & Kitchen,2,18000,12500,Islamabad
+ORD-1253,2026-03-14,CUST-113,Asad Mehmood,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1254,2026-06-25,CUST-114,Sana Javed,Air Fryer,Home & Kitchen,2,16200,12500,Islamabad
+ORD-1254,2026-06-25,CUST-114,Sana Javed,Printer Paper Ream,Stationery,8,1400,1100,Islamabad
+ORD-1254,2026-06-25,CUST-114,Sana Javed,Study Desk,Furniture,1,28000,18500,Islamabad
+ORD-1255,2026-05-17,CUST-123,Kamran Akbar,Gel Pen Box,Stationery,8,500,330,Karachi
+ORD-1256,2026-05-20,CUST-102,Sara Ahmed,Laptop,Electronics,1,85500,78000,Islamabad
+ORD-1257,2026-04-24,CUST-106,Hina Raza,Smartphone,Electronics,2,60000,48000,Rawalpindi
+ORD-1257,2026-04-24,CUST-106,Hina Raza,Water Bottle,Home & Kitchen,8,1800,900,Rawalpindi
+ORD-1257,2026-04-24,CUST-106,Hina Raza,Smart Watch,Electronics,2,15000,10000,Rawalpindi
+ORD-1258,2026-04-20,CUST-114,Sana Javed,Gel Pen Box,Stationery,8,600,330,Islamabad
+ORD-1259,2026-05-23,CUST-112,Noor Fatima,Air Fryer,Home & Kitchen,1,16200,12500,Islamabad
+ORD-1260,2026-01-20,CUST-114,Sana Javed,Gel Pen Box,Stationery,1,600,330,Islamabad
+ORD-1261,2026-06-29,CUST-114,Sana Javed,Bookshelf,Furniture,1,15200,10500,Islamabad
+ORD-1261,2026-06-29,CUST-114,Sana Javed,Wireless Earbuds,Electronics,6,8600,5500,Islamabad
+ORD-1262,2026-04-09,CUST-137,Waqar Younas,Bookshelf,Furniture,1,16000,10500,Islamabad
+ORD-1262,2026-04-09,CUST-137,Waqar Younas,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1262,2026-04-09,CUST-137,Waqar Younas,Water Bottle,Home & Kitchen,7,1600,900,Islamabad
+ORD-1263,2026-02-04,CUST-139,Yasir Latif,Blender,Home & Kitchen,1,8500,5600,Islamabad
+ORD-1264,2026-04-12,CUST-129,Adeel Farooq,Gel Pen Box,Stationery,4,600,330,Rawalpindi
+ORD-1264,2026-04-12,CUST-129,Adeel Farooq,Bookshelf,Furniture,2,16000,10500,Rawalpindi
+ORD-1264,2026-04-12,CUST-129,Adeel Farooq,Smart Watch,Electronics,2,15000,10000,Rawalpindi
+ORD-1265,2026-06-22,CUST-130,Komal Rehman,Laptop,Electronics,2,85500,78000,Karachi
+ORD-1266,2026-05-30,CUST-135,Rizwan Chaudhry,Smart Watch,Electronics,1,15000,10000,Lahore
+ORD-1267,2026-01-28,CUST-102,Sara Ahmed,Smart Watch,Electronics,1,14200,10000,Islamabad
+ORD-1268,2026-04-08,CUST-119,Danish Aslam,Wireless Earbuds,Electronics,5,9000,5500,Islamabad
+ORD-1269,2026-06-05,CUST-130,Komal Rehman,Printer Paper Ream,Stationery,6,1500,1100,Karachi
+ORD-1269,2026-06-05,CUST-130,Komal Rehman,Phone Case,Accessories,5,1200,400,Karachi
+ORD-1270,2026-06-29,CUST-119,Danish Aslam,Office Chair,Furniture,1,20900,14000,Islamabad
+ORD-1270,2026-06-29,CUST-119,Danish Aslam,Phone Case,Accessories,8,1200,400,Islamabad
+ORD-1270,2026-06-29,CUST-119,Danish Aslam,Laptop,Electronics,2,90200,78000,Islamabad
+ORD-1271,2026-06-01,CUST-111,Hassan Raza,Bookshelf,Furniture,2,16000,10500,Karachi
+ORD-1271,2026-06-01,CUST-111,Hassan Raza,Wireless Earbuds,Electronics,8,9000,5500,Karachi
+ORD-1271,2026-06-01,CUST-111,Hassan Raza,Office Chair,Furniture,1,22000,14000,Karachi
+ORD-1272,2026-06-11,CUST-106,Hina Raza,Phone Case,Accessories,7,1100,400,Rawalpindi
+ORD-1272,2026-06-11,CUST-106,Hina Raza,Laptop,Electronics,1,90200,78000,Rawalpindi
+ORD-1272,2026-06-11,CUST-106,Hina Raza,Gel Pen Box,Stationery,4,600,330,Rawalpindi
+ORD-1273,2026-02-21,CUST-125,Owais Hanif,Backpack,Accessories,4,5500,3000,Karachi
+ORD-1273,2026-02-21,CUST-125,Owais Hanif,Study Desk,Furniture,2,26600,18500,Karachi
+ORD-1273,2026-02-21,CUST-125,Owais Hanif,Smartphone,Electronics,1,60000,48000,Karachi
+ORD-1274,2026-02-17,CUST-132,Hira Nadeem,Notebook Pack,Stationery,4,800,450,Lahore
+ORD-1275,2026-03-13,CUST-137,Waqar Younas,Phone Case,Accessories,4,1200,400,Islamabad
+ORD-1276,2026-05-27,CUST-131,Junaid Aziz,Air Fryer,Home & Kitchen,1,17100,12500,Lahore
+ORD-1277,2026-06-19,CUST-121,Imran Ghani,Bookshelf,Furniture,2,16000,10500,Rawalpindi
+ORD-1277,2026-06-19,CUST-121,Imran Ghani,Notebook Pack,Stationery,5,800,450,Rawalpindi
+ORD-1278,2026-04-20,CUST-116,Iqra Siddiqui,Blender,Home & Kitchen,8,8500,5600,Rawalpindi
+ORD-1279,2026-06-19,CUST-112,Noor Fatima,Laptop,Electronics,1,95000,78000,Islamabad
+ORD-1279,2026-06-19,CUST-112,Noor Fatima,Printer Paper Ream,Stationery,5,1400,1100,Islamabad
+ORD-1279,2026-06-19,CUST-112,Noor Fatima,Smart Watch,Electronics,2,15000,10000,Islamabad
+ORD-1280,2026-02-09,CUST-111,Hassan Raza,Printer Paper Ream,Stationery,8,1400,1100,Karachi
+ORD-1280,2026-02-09,CUST-111,Hassan Raza,Backpack,Accessories,6,5500,3000,Karachi
+ORD-1280,2026-02-09,CUST-111,Hassan Raza,Smart Watch,Electronics,2,14200,10000,Karachi
+ORD-1281,2026-04-11,CUST-130,Komal Rehman,Wireless Earbuds,Electronics,8,9000,5500,Karachi
+ORD-1281,2026-04-11,CUST-130,Komal Rehman,Phone Case,Accessories,1,1100,400,Karachi
+ORD-1282,2026-01-10,CUST-135,Rizwan Chaudhry,Blender,Home & Kitchen,1,8100,5600,Lahore
+ORD-1283,2026-02-06,CUST-125,Owais Hanif,Air Fryer,Home & Kitchen,1,18000,12500,Karachi
+ORD-1284,2026-02-24,CUST-114,Sana Javed,Printer Paper Ream,Stationery,8,1400,1100,Islamabad
+ORD-1285,2026-01-05,CUST-119,Danish Aslam,Laptop,Electronics,2,85500,78000,Islamabad
+ORD-1285,2026-01-05,CUST-119,Danish Aslam,Phone Case,Accessories,5,1200,400,Islamabad
+ORD-1285,2026-01-05,CUST-119,Danish Aslam,Gel Pen Box,Stationery,7,600,330,Islamabad
+ORD-1286,2026-01-30,CUST-103,Usman Tariq,Smart Watch,Electronics,1,13500,10000,Lahore
+ORD-1287,2026-04-22,CUST-133,Salman Baig,Blender,Home & Kitchen,2,8500,5600,Rawalpindi
+ORD-1287,2026-04-22,CUST-133,Salman Baig,Bookshelf,Furniture,2,15200,10500,Rawalpindi
+ORD-1288,2026-04-29,CUST-140,Tooba Kamal,Office Chair,Furniture,1,22000,14000,Lahore
+ORD-1289,2026-01-26,CUST-112,Noor Fatima,Laptop,Electronics,1,95000,78000,Islamabad
+ORD-1289,2026-01-26,CUST-112,Noor Fatima,Water Bottle,Home & Kitchen,8,1700,900,Islamabad
+ORD-1289,2026-01-26,CUST-112,Noor Fatima,Phone Case,Accessories,6,1100,400,Islamabad
+ORD-1290,2026-06-27,CUST-139,Yasir Latif,Smart Watch,Electronics,1,13500,10000,Islamabad
+ORD-1291,2026-04-14,CUST-102,Sara Ahmed,Water Bottle,Home & Kitchen,5,1600,900,Islamabad
+ORD-1292,2026-04-29,CUST-102,Sara Ahmed,Laptop,Electronics,1,90200,78000,Islamabad
+ORD-1292,2026-04-29,CUST-102,Sara Ahmed,Smart Watch,Electronics,1,15000,10000,Islamabad
+ORD-1293,2026-02-11,CUST-108,Fatima Noor,Water Bottle,Home & Kitchen,7,1800,900,Peshawar
+ORD-1293,2026-02-11,CUST-108,Fatima Noor,Gel Pen Box,Stationery,2,500,330,Peshawar
+ORD-1293,2026-02-11,CUST-108,Fatima Noor,Study Desk,Furniture,2,28000,18500,Peshawar
+ORD-1294,2026-01-27,CUST-108,Fatima Noor,Study Desk,Furniture,2,28000,18500,Peshawar
+ORD-1295,2026-01-09,CUST-110,Maryam Iqbal,Notebook Pack,Stationery,7,800,450,Peshawar
+ORD-1295,2026-01-09,CUST-110,Maryam Iqbal,Smart Watch,Electronics,1,13500,10000,Peshawar
+ORD-1295,2026-01-09,CUST-110,Maryam Iqbal,Study Desk,Furniture,2,28000,18500,Peshawar
+ORD-1296,2026-05-30,CUST-110,Maryam Iqbal,Air Fryer,Home & Kitchen,1,18000,12500,Peshawar
+ORD-1297,2026-03-06,CUST-112,Noor Fatima,Air Fryer,Home & Kitchen,2,18000,12500,Islamabad
+ORD-1298,2026-03-24,CUST-103,Usman Tariq,Notebook Pack,Stationery,5,800,450,Lahore
+ORD-1298,2026-03-24,CUST-103,Usman Tariq,Study Desk,Furniture,1,28000,18500,Lahore
+ORD-1299,2026-02-17,CUST-114,Sana Javed,Smartphone,Electronics,2,54000,48000,Islamabad
+ORD-1299,2026-02-17,CUST-114,Sana Javed,Laptop,Electronics,1,85500,78000,Islamabad
+ORD-1299,2026-02-17,CUST-114,Sana Javed,Phone Case,Accessories,6,1100,400,Islamabad
+ORD-1300,2026-01-04,CUST-113,Asad Mehmood,Air Fryer,Home & Kitchen,1,16200,12500,Islamabad
+ORD-1301,2026-04-22,CUST-128,Bushra Anwar,Wireless Earbuds,Electronics,5,9000,5500,Islamabad
+ORD-1302,2026-03-06,CUST-106,Hina Raza,Bookshelf,Furniture,2,15200,10500,Rawalpindi
+ORD-1303,2026-03-13,CUST-133,Salman Baig,Office Chair,Furniture,2,19800,14000,Rawalpindi
+ORD-1303,2026-03-13,CUST-133,Salman Baig,Smart Watch,Electronics,1,14200,10000,Rawalpindi
+ORD-1304,2026-01-30,CUST-110,Maryam Iqbal,Study Desk,Furniture,2,28000,18500,Peshawar
+ORD-1304,2026-01-30,CUST-110,Maryam Iqbal,Backpack,Accessories,8,5500,3000,Peshawar
+ORD-1304,2026-01-30,CUST-110,Maryam Iqbal,Printer Paper Ream,Stationery,7,1400,1100,Peshawar
+ORD-1305,2026-02-05,CUST-111,Hassan Raza,Notebook Pack,Stationery,6,800,450,Karachi
+ORD-1306,2026-06-26,CUST-139,Yasir Latif,Air Fryer,Home & Kitchen,2,16200,12500,Islamabad
+ORD-1306,2026-06-26,CUST-139,Yasir Latif,Phone Case,Accessories,4,1200,400,Islamabad
+ORD-1307,2026-03-27,CUST-133,Salman Baig,Study Desk,Furniture,1,25200,18500,Rawalpindi
+ORD-1307,2026-03-27,CUST-133,Salman Baig,Smartphone,Electronics,1,54000,48000,Rawalpindi
+ORD-1307,2026-03-27,CUST-133,Salman Baig,Printer Paper Ream,Stationery,1,1400,1100,Rawalpindi
+ORD-1308,2026-06-23,CUST-107,Hamza Sheikh,Backpack,Accessories,2,5200,3000,Islamabad
+ORD-1308,2026-06-23,CUST-107,Hamza Sheikh,Air Fryer,Home & Kitchen,2,18000,12500,Islamabad
+ORD-1309,2026-05-09,CUST-108,Fatima Noor,Air Fryer,Home & Kitchen,2,17100,12500,Peshawar
+ORD-1310,2026-01-21,CUST-140,Tooba Kamal,Printer Paper Ream,Stationery,7,1400,1100,Lahore
+ORD-1310,2026-01-21,CUST-140,Tooba Kamal,Bookshelf,Furniture,1,16000,10500,Lahore
+ORD-1310,2026-01-21,CUST-140,Tooba Kamal,Gel Pen Box,Stationery,2,600,330,Lahore
+ORD-1311,2026-05-30,CUST-126,Amna Rauf,Wireless Earbuds,Electronics,1,8100,5500,Peshawar
+ORD-1311,2026-05-30,CUST-126,Amna Rauf,Water Bottle,Home & Kitchen,7,1800,900,Peshawar
+ORD-1312,2026-06-26,CUST-114,Sana Javed,Smartphone,Electronics,2,60000,48000,Islamabad
+ORD-1313,2026-04-20,CUST-118,Mehwish Ali,Notebook Pack,Stationery,6,800,450,Peshawar
+ORD-1314,2026-04-12,CUST-127,Shahid Mirza,Study Desk,Furniture,1,26600,18500,Lahore
+ORD-1315,2026-01-29,CUST-113,Asad Mehmood,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1316,2026-03-15,CUST-114,Sana Javed,Gel Pen Box,Stationery,8,600,330,Islamabad
+ORD-1317,2026-04-14,CUST-114,Sana Javed,Study Desk,Furniture,1,28000,18500,Islamabad
+ORD-1317,2026-04-14,CUST-114,Sana Javed,Smartphone,Electronics,1,60000,48000,Islamabad
+ORD-1317,2026-04-14,CUST-114,Sana Javed,Office Chair,Furniture,1,22000,14000,Islamabad
+ORD-1318,2026-06-21,CUST-131,Junaid Aziz,Gel Pen Box,Stationery,3,600,330,Lahore
+ORD-1319,2026-04-28,CUST-139,Yasir Latif,Blender,Home & Kitchen,7,8500,5600,Islamabad
+ORD-1320,2026-02-17,CUST-126,Amna Rauf,Laptop,Electronics,1,90200,78000,Peshawar
+ORD-1320,2026-02-17,CUST-126,Amna Rauf,Air Fryer,Home & Kitchen,2,17100,12500,Peshawar
+ORD-1320,2026-02-17,CUST-126,Amna Rauf,Printer Paper Ream,Stationery,1,1500,1100,Peshawar
+ORD-1321,2026-02-21,CUST-131,Junaid Aziz,Printer Paper Ream,Stationery,2,1400,1100,Lahore
+ORD-1322,2026-02-17,CUST-111,Hassan Raza,Smartphone,Electronics,2,54000,48000,Karachi
+ORD-1322,2026-02-17,CUST-111,Hassan Raza,Office Chair,Furniture,2,19800,14000,Karachi
+ORD-1322,2026-02-17,CUST-111,Hassan Raza,Water Bottle,Home & Kitchen,7,1600,900,Karachi
+ORD-1323,2026-03-31,CUST-105,Bilal Hussain,Backpack,Accessories,3,5500,3000,Rawalpindi
+ORD-1323,2026-03-31,CUST-105,Bilal Hussain,Notebook Pack,Stationery,2,800,450,Rawalpindi
+ORD-1324,2026-03-15,CUST-108,Fatima Noor,Wireless Earbuds,Electronics,6,9000,5500,Peshawar
+ORD-1325,2026-04-20,CUST-113,Asad Mehmood,Printer Paper Ream,Stationery,7,1400,1100,Islamabad
+ORD-1326,2026-02-17,CUST-125,Owais Hanif,Gel Pen Box,Stationery,3,600,330,Karachi
+ORD-1327,2026-03-10,CUST-106,Hina Raza,Printer Paper Ream,Stationery,1,1400,1100,Rawalpindi
+ORD-1327,2026-03-10,CUST-106,Hina Raza,Laptop,Electronics,1,95000,78000,Rawalpindi
+ORD-1327,2026-03-10,CUST-106,Hina Raza,Study Desk,Furniture,2,25200,18500,Rawalpindi
+ORD-1328,2026-04-19,CUST-116,Iqra Siddiqui,Bookshelf,Furniture,2,16000,10500,Rawalpindi
+ORD-1328,2026-04-19,CUST-116,Iqra Siddiqui,Air Fryer,Home & Kitchen,1,16200,12500,Rawalpindi
+ORD-1328,2026-04-19,CUST-116,Iqra Siddiqui,Notebook Pack,Stationery,1,800,450,Rawalpindi
+ORD-1329,2026-03-11,CUST-110,Maryam Iqbal,Wireless Earbuds,Electronics,8,8100,5500,Peshawar
+ORD-1329,2026-03-11,CUST-110,Maryam Iqbal,Blender,Home & Kitchen,8,7600,5600,Peshawar
+ORD-1330,2026-04-20,CUST-123,Kamran Akbar,Blender,Home & Kitchen,6,7600,5600,Karachi
+ORD-1330,2026-04-20,CUST-123,Kamran Akbar,Gel Pen Box,Stationery,1,600,330,Karachi
+ORD-1331,2026-04-26,CUST-140,Tooba Kamal,Air Fryer,Home & Kitchen,1,18000,12500,Lahore
+ORD-1332,2026-06-13,CUST-102,Sara Ahmed,Study Desk,Furniture,1,26600,18500,Islamabad
+ORD-1332,2026-06-13,CUST-102,Sara Ahmed,Backpack,Accessories,2,5500,3000,Islamabad
+ORD-1333,2026-02-22,CUST-131,Junaid Aziz,Backpack,Accessories,7,5500,3000,Lahore
+ORD-1333,2026-02-22,CUST-131,Junaid Aziz,Air Fryer,Home & Kitchen,1,18000,12500,Lahore
+ORD-1334,2026-06-05,CUST-133,Salman Baig,Gel Pen Box,Stationery,3,600,330,Rawalpindi
+ORD-1334,2026-06-05,CUST-133,Salman Baig,Office Chair,Furniture,2,22000,14000,Rawalpindi
+ORD-1335,2026-04-30,CUST-139,Yasir Latif,Wireless Earbuds,Electronics,7,9000,5500,Islamabad
+ORD-1336,2026-06-29,CUST-135,Rizwan Chaudhry,Air Fryer,Home & Kitchen,1,18000,12500,Lahore
+ORD-1337,2026-02-08,CUST-111,Hassan Raza,Blender,Home & Kitchen,7,8100,5600,Karachi
+ORD-1338,2026-02-07,CUST-125,Owais Hanif,Bookshelf,Furniture,1,15200,10500,Karachi
+ORD-1338,2026-02-07,CUST-125,Owais Hanif,Notebook Pack,Stationery,5,800,450,Karachi
+ORD-1338,2026-02-07,CUST-125,Owais Hanif,Smartphone,Electronics,2,57000,48000,Karachi
+ORD-1339,2026-03-18,CUST-101,Ali Khan,Air Fryer,Home & Kitchen,2,18000,12500,Islamabad
+ORD-1340,2026-06-10,CUST-133,Salman Baig,Smart Watch,Electronics,2,15000,10000,Rawalpindi
+ORD-1340,2026-06-10,CUST-133,Salman Baig,Bookshelf,Furniture,2,16000,10500,Rawalpindi
+ORD-1340,2026-06-10,CUST-133,Salman Baig,Phone Case,Accessories,6,1100,400,Rawalpindi
+ORD-1341,2026-05-01,CUST-122,Laiba Shah,Blender,Home & Kitchen,1,8500,5600,Peshawar
+ORD-1341,2026-05-01,CUST-122,Laiba Shah,Study Desk,Furniture,1,26600,18500,Peshawar
+ORD-1341,2026-05-01,CUST-122,Laiba Shah,Water Bottle,Home & Kitchen,1,1800,900,Peshawar
+ORD-1342,2026-06-21,CUST-106,Hina Raza,Laptop,Electronics,1,95000,78000,Rawalpindi
+ORD-1342,2026-06-21,CUST-106,Hina Raza,Bookshelf,Furniture,1,16000,10500,Rawalpindi
+ORD-1342,2026-06-21,CUST-106,Hina Raza,Smart Watch,Electronics,1,15000,10000,Rawalpindi
+ORD-1343,2026-03-03,CUST-112,Noor Fatima,Laptop,Electronics,2,95000,78000,Islamabad
+ORD-1344,2026-05-23,CUST-132,Hira Nadeem,Water Bottle,Home & Kitchen,2,1800,900,Lahore
+ORD-1344,2026-05-23,CUST-132,Hira Nadeem,Smartphone,Electronics,1,57000,48000,Lahore
+ORD-1344,2026-05-23,CUST-132,Hira Nadeem,Air Fryer,Home & Kitchen,1,18000,12500,Lahore
+ORD-1345,2026-05-03,CUST-118,Mehwish Ali,Laptop,Electronics,2,95000,78000,Peshawar
+ORD-1345,2026-05-03,CUST-118,Mehwish Ali,Phone Case,Accessories,7,1200,400,Peshawar
+ORD-1345,2026-05-03,CUST-118,Mehwish Ali,Air Fryer,Home & Kitchen,2,18000,12500,Peshawar
+ORD-1346,2026-02-27,CUST-103,Usman Tariq,Smartphone,Electronics,2,60000,48000,Lahore
+ORD-1347,2026-06-14,CUST-105,Bilal Hussain,Water Bottle,Home & Kitchen,3,1800,900,Rawalpindi
+ORD-1348,2026-04-23,CUST-101,Ali Khan,Notebook Pack,Stationery,6,800,450,Islamabad
+ORD-1349,2026-05-09,CUST-106,Hina Raza,Printer Paper Ream,Stationery,4,1500,1100,Rawalpindi
+ORD-1349,2026-05-09,CUST-106,Hina Raza,Water Bottle,Home & Kitchen,2,1800,900,Rawalpindi
+ORD-1349,2026-05-09,CUST-106,Hina Raza,Notebook Pack,Stationery,2,700,450,Rawalpindi
+ORD-1350,2026-05-24,CUST-112,Noor Fatima,Study Desk,Furniture,1,28000,18500,Islamabad
+ORD-1350,2026-05-24,CUST-112,Noor Fatima,Blender,Home & Kitchen,2,8500,5600,Islamabad
+ORD-1350,2026-05-24,CUST-112,Noor Fatima,Wireless Earbuds,Electronics,5,9000,5500,Islamabad
+ORD-1351,2026-06-10,CUST-126,Amna Rauf,Smart Watch,Electronics,1,14200,10000,Peshawar
+ORD-1351,2026-06-10,CUST-126,Amna Rauf,Gel Pen Box,Stationery,5,600,330,Peshawar
+ORD-1352,2026-06-01,CUST-133,Salman Baig,Notebook Pack,Stationery,7,800,450,Rawalpindi
+ORD-1353,2026-03-01,CUST-125,Owais Hanif,Gel Pen Box,Stationery,1,600,330,Karachi
+ORD-1354,2026-06-22,CUST-105,Bilal Hussain,Study Desk,Furniture,1,26600,18500,Rawalpindi
+ORD-1354,2026-06-22,CUST-105,Bilal Hussain,Gel Pen Box,Stationery,2,600,330,Rawalpindi
+ORD-1354,2026-06-22,CUST-105,Bilal Hussain,Water Bottle,Home & Kitchen,2,1800,900,Rawalpindi
+ORD-1355,2026-03-05,CUST-102,Sara Ahmed,Blender,Home & Kitchen,7,7600,5600,Islamabad
+ORD-1356,2026-03-10,CUST-129,Adeel Farooq,Bookshelf,Furniture,1,14400,10500,Rawalpindi
+ORD-1356,2026-03-10,CUST-129,Adeel Farooq,Air Fryer,Home & Kitchen,1,18000,12500,Rawalpindi
+ORD-1356,2026-03-10,CUST-129,Adeel Farooq,Phone Case,Accessories,2,1200,400,Rawalpindi
+ORD-1357,2026-01-22,CUST-138,Alina Pervez,Gel Pen Box,Stationery,6,600,330,Karachi
+ORD-1358,2026-05-02,CUST-132,Hira Nadeem,Office Chair,Furniture,2,22000,14000,Lahore
+ORD-1359,2026-01-16,CUST-103,Usman Tariq,Smartphone,Electronics,1,60000,48000,Lahore
+ORD-1359,2026-01-16,CUST-103,Usman Tariq,Notebook Pack,Stationery,3,800,450,Lahore
+ORD-1359,2026-01-16,CUST-103,Usman Tariq,Printer Paper Ream,Stationery,1,1500,1100,Lahore
+ORD-1360,2026-05-20,CUST-106,Hina Raza,Gel Pen Box,Stationery,5,600,330,Rawalpindi
+ORD-1360,2026-05-20,CUST-106,Hina Raza,Phone Case,Accessories,6,1200,400,Rawalpindi
+ORD-1201,2026-03-25,CUST-139,Yasir Latif,Printer Paper Ream,Stationery,3,1400,1100,Islamabad
+ORD-1248,2026-05-24,CUST-125,Owais Hanif,Laptop,Electronics,2,95000,78000,Karachi
+ORD-1258,2026-04-20,CUST-114,Sana Javed,Gel Pen Box,Stationery,8,600,330,Islamabad
+ORD-1218,2026-04-15,CUST-133,Salman Baig,Notebook Pack,Stationery,8,800,450,Rawalpindi
+ORD-9001,2026-03-06,CUST-109,Zain Abbas,Printer Paper Ream,Stationery,0,1500,1100,Islamabad
+ORD-9002,not a date,CUST-140,Tooba Kamal,Gel Pen Box,Stationery,1,600,330,Lahore
+ORD-9003,2026-01-31,CUST-114,,Air Fryer,Home & Kitchen,1,16200,12500,Islamabad
